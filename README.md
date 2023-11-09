@@ -3,7 +3,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo: **Linux para Desenvolvedores e Git**
+- 🌱 Atualmente na trilha de aprendizagem: **Linux para Desenvolvedores e Git**
   ---
 
 
