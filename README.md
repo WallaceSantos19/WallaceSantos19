@@ -1,11 +1,10 @@
-<h1>Olá 👋, me chamo Wallace Santos</h1>
-<h3>Sou de Manaus, acadêmico de Ciência da Computação na Uninorte e estou atualmente no 4º Período. Gosto de jogos eletrônicos e climas chuvosos rs.</h3>
+<h1>Olá 🤩, me chamo Wallace Santos</h1>
+<h3>Sou de Manaus, acadêmico de Ciência da Computação na Uninorte e estou atualmente no 4º Período. Gosto de jogos eletrônicos 🎮 e climas chuvosos 🌧 rs.</h3>
 
 
 
-- 🌱 Atualmente estou aprendendo: **Linux para Desenvolvedores e Git**
+* 👨🏾‍💻 Atualmente estou aprendendo: **Linux para Desenvolvedores e Git**
   ---
-
 
   <p>
     <img alt="Visitantes" src="https://api.visitorbadge.io/api/visitors?path=wallacesantos19dl%2Fgithub-visitors-badge&countColor=%23263759"/>
@@ -34,7 +33,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-
 
           
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacesantos19&show_icons=true&theme=cobalt" alt="wallacesantos19" /></a>
