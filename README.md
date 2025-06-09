@@ -3,7 +3,7 @@
 
 
 
-* 👨🏾‍💻 Atualmente estou aprendendo: **Linux para Desenvolvedores e Git**
+* 👨🏾‍💻 Atualmente estou me Certificando em: **Segurança da Informação na Fortinet**
   ---
 
   <p>
