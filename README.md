@@ -42,3 +42,5 @@
           
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacesantos19&show_icons=true&theme=cobalt" alt="wallacesantos19" /></a>
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ebb3351c-7a5e-4af1-884f-0b489e799932" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
