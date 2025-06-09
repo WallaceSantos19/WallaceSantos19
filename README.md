@@ -42,5 +42,3 @@
           
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacesantos19&show_icons=true&theme=cobalt" alt="wallacesantos19" /></a>
 
-![Fortinet Certified Fundamentals Cybersecurity]([https://img.shields.io/badge/Texto-Cor.svg](https://www.credly.com/badges/ebb3351c-7a5e-4af1-884f-0b489e799932/public_url))
-
