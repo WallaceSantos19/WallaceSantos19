@@ -1,4 +1,4 @@
-<h1>Olá 🤩, me chamo Wallace Santos</h1>
+<h1>Olá, me chamo Wallace Santos</h1>
 <h3>Sou de Manaus, acadêmico de Ciência da Computação na Uninorte e estou atualmente no 7º Período. Gosto de jogos eletrônicos 🎮 e climas chuvosos 🌧 rs.</h3>
 
 
