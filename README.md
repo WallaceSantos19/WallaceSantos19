@@ -1,44 +1,94 @@
-<h1>Olá, me chamo Wallace Santos</h1>
-<h3>Sou de Manaus, acadêmico de Ciência da Computação na Uninorte e estou atualmente no 8º Período. Gosto de jogos eletrônicos 🎮 e climas chuvosos 🌧 rs.</h3>
+<h1 align="center">Wallace Garcia dos Santos</h1>
+
+<p align="center">
+ Support Analyst • Fullstack Developer • Cloud Student • Oracle Cloud Infrastructure Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/wallace-santos-670347386?trk=profile-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/wallacesantos19">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer;Cloud+Infrastructure;Docker+%7C+Linux+%7C+Grafana;Always+learning+new+things" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Wallace Santos
+
+Focus:
+  - Cloud Infrastructure
+  - Monitoring & Automation
+  - Docker & Linux
+
+Currently Learning:
+  - Java Spring Boot
+  - Oracle Cloud Infrastructure
+  - Grafana + Prometheus
+  - React Native
+
+Goals:
+  - Enter the technology market
+  - Become a Cloud analyst
+  - Improve backend architecture skills
+```
+
+🚀 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=javascript,spring,docker,linux,python,mysql,git,grafana,vscode,react,kotlin,npm,firebase,aws,flask,figma,css" /> </p>
+
+🏆 Certifications
+<p align="center">
+  <img src="assets/aws-partner-cloud-economics-essentials-training-bad.png" width="130px"/>
+  <img src="assets/aws-partner-sales-accreditation-training-badge.png" width="130px"/>
+  <img src="assets/check-point-jump-start-smb.png" width="130px"/>
+  <img src="assets/cloudguard-pre-sales-technical-specialist.png" width="130px"/>
+  <img src="assets/fortinet-certified-fundamentals-cybersecurity.png" width="130px"/>
+  <img src="assets/getting-started-in-cybersecurity-3-0.png" width="130px"/>
+  <img src="assets/introduction-to-the-threat-landscape-3-0.png" width="130px"/>
+  <img src="assets/harmony-endpoint-harmony-browse-technical-specialist.png" width="130px"/>
+  <img src="assets/harmony-saas-technical-specialist.png" width="130px"/>
+  <img src="assets/quantum-force-technical-specialist.png" width="130px"/>
+  <img src="assets/quantum-spark-technical-specialist.png" width="130px"/>
+  <img src="assets/technical-introduction-to-cybersecurity-2-0.png" width="130px"/>
+  <img src="assets/terraform-sales-foundation.png" width="130px"/>
+  <img src="assets/welcome-partners-cpsc.png" width="130px"/>
+  <img src="assets/oci-foundations.jpeg" width="280px"/>
+</p>
+
+🔥 Contribution Streak & Contribution Cards
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://streak-stats.demolab.com?user=wallacesantos19&theme=github-dark-blue&hide_border=true"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallacesantos19&theme=github_dark"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
-* 👨🏾‍💻 Atualmente estou me Certificando em: **Segurança da Informação na Fortinet**
-  ---
+🐍 Contribution Snake Animation
 
-  <p>
-    <img alt="Visitantes" src="https://api.visitorbadge.io/api/visitors?path=wallacesantos19dl%2Fgithub-visitors-badge&countColor=%23263759"/>
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/wallacesantos19dl?color=%23263759&style=for-the-badge">
-    <img alt="Estrelas" src="https://img.shields.io/github/stars/wallacesantos19dl?color=%23263759&style=for-the-badge">
-  </p>
-
-  <h3>Conecte-se comigo:</h3>
-  
-    <a href = "mailto:wallace.lion123@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.instagram.com/wallacesantos19/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagaram"/>
-    </a>
-    <a href ="https://www.facebook.com/WallaceSantos19/">
-      <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/>
-    </a>
-  
-
-<h3>Ferramentas:</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23263759?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-%23263759?style=for-the-badge&logo=git)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![AWS](	https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23263759?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-          
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=wallacesantos19&show_icons=true&theme=cobalt" alt="wallacesantos19" /></a>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/wallacesantos19/wallacesantos19/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
