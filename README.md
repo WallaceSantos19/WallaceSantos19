@@ -61,7 +61,7 @@ Goals:
   <img src="assets/technical-introduction-to-cybersecurity-2-0.png" width="130px"/>
   <img src="assets/terraform-sales-foundation.png" width="130px"/>
   <img src="assets/welcome-partners-cpsc.png" width="130px"/>
-  <img src="assets/oci-foundations.jpeg" width="280px"/>
+  <img src="assets/OCI-FUNDATION-SBG.png" width="280px"/>
 </p>
 
 🔥 Contribution Streak & Contribution Cards
